@@ -21,10 +21,14 @@
 ## Окно пользователя  
 Главная вкладка "Книги"  
 ![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/main.jpg)  
-Вкладка "Информация" в которой содержится информация о покупателе  
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF2.png)  
-Вкладка "Заказы" в которой показан заказ покупателя  
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF3.png)  
+Вкладка "Регистрация книг" в которой происходит регистрация книг  
+![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/book_registration.jpg) 
+Вкладка "Регистрация читателей" в которой происходит регистрация читателей  
+![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/reader_registration.jpg) 
+Вкладка "Выдача книг" в которой происходит регистрация акта выдачи книг  
+![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/book_lending.jpg) 
+Вкладка "Прием книг" в которой происходит регистрация акта приема книг  
+![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/book_acceptance.jpg) 
 ## 2.3 Характеристики пользователей  
 Пользователь приложения - библиотекарь. Это человек, занимающийся регистрацией книг и читалей, составлением актов выдачи и приема книг.
 ## 2.4 Предположения и зависимости 
