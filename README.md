@@ -19,8 +19,8 @@
 Продукт должен иметь web-интерфейс. Для этого будут использован Java Servlet API. Все данные  (списки читателей, книг, жанров книг) будут храниться в базе данных postgre sql. Приложение должно быть написано на языке программирования Java.  
 ## 2.2 Интерфейс пользователя  
 ## Окно пользователя  
-Главная вкладка "Товары"  
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF1.png)  
+Главная вкладка "Книги"  
+![](https://github.com/vladichek12/TRITPO/blob/main/sapmples/main.jpg)  
 Вкладка "Информация" в которой содержится информация о покупателе  
 ![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF2.png)  
 Вкладка "Заказы" в которой показан заказ покупателя  
